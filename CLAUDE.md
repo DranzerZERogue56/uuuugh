@@ -16,6 +16,30 @@ Standing rules for writing chapters of the "Wrenn's Roost" serialized story. App
 - Be descriptive and concrete about how characters physically do their work and move through space (hands, tools, posture, the actual mechanics of an action) — not just that they did something.
 - Avoid vague placeholder description that sounds evocative but conveys nothing concrete. Reaching for "something happened, quick and [adjective]" instead of describing the actual physical detail is a failure mode, not a style. If a moment calls for a character's reaction, name the actual physical thing that happened (a muscle in the jaw, fingers tightening on a chair arm, eyebrows lifting) rather than gesturing at "something" crossing/flickering/shifting.
 
+## Scene transitions
+
+- Don't cut hard from one scene straight into the next location or character. Give a short beat showing the character actually leaving: finishing what they were doing, physically moving through the house/yard/road, before the scene break lands.
+
+**Bad:**
+```
+Iliyn grinned around her spoon and didn't argue the count.
+
+*
+
+He found Dorneth in the Workshop after breakfast, in the walled off corner that was properly his...
+```
+
+**Fixed:**
+```
+Iliyn grinned around her spoon and didn't argue the count.
+
+Dranzer finished his own bowl, carried it to the basin himself rather than leave it for Vessamira to clear, and headed back out across the yard toward the Workshop to see how Dorneth had settled back in.
+
+*
+
+Dorneth was already in his corner, the walled off section of the Workshop that was properly his...
+```
+
 ## Closing-statement rule (added after repeated correction — see below for why this exists)
 
 **Never end a paragraph, scene, or chapter on a tag clause that restates a beat the action/dialogue already conveyed.** This includes constructions like:
